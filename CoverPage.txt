@@ -1,0 +1,52 @@
+##### ECM1410 Referral/Deferral Coursework 2 submission form ######
+
+CANDIDATE NUMBER:
+
+FOR SUBMISSION:
+ - DOWNLOAD A COPY OF THIS FILE
+ - CHECK YOU HAVE COMMITTED ALL CODE CHANGES LOCALLY AND PUSHED THEM 
+   TO THE GITHUB CLASSROOM
+ - FILL OUT THE FORM WITH YOUR CANDIDATE NUMBER, AND THE URL AND
+   COMMIT HASH OF YOUR REPOSITORY ALONG WITH GEN AI DECLARATION
+ - UPLOAD THE COMPLETED TXT FORM VIA ELE
+
+##### PART 1: SUBMISSION DETAILS #########################
+
+# COMMAND TO DISPLAY URL AND COMMIT HASH:
+# echo url $(git remote get-url origin); git log -1 | head -n 1
+
+candidate number: 
+url: 
+commit:  
+
+
+##### PART 2: GEN AI DECLARATION #########################
+
+This submission is GenAI supported and you are allowed to use GenAI to assist your coding.
+
+Submission of this file acknowledges you have adhered to the university guidance in respect to use of GenAI, plagarism and collusion.
+
+If you wish to acknowledge any significant portions of your coursework that were authored by appropriate use of GenAI tools please do so below adding an X in the relevant boxes, i.e. [ X ] 
+
+For example in this assignment under the "Other:" you might declare
+ - you made use of GenAI to generate the java documentation; 
+ - you might declare you used Copilot to assist while coding; 
+ - you might declare you used ChatGPT to solve specific coding issues (e.g. as an alternative to Google & StackExchange)
+
+GEN AI DECLARATION BELOW:
+
+I acknowledge the following uses of GenAI tools in this assessment: 
+
+- [ ] I have used GenAI tools to: 
+	- [ ] develop ideas. 
+	- [ ] assist with research or gathering information. 
+	- [ ] help me understand key theories and concepts. 
+	- [ ] identify trends and themes as part of my data analysis 
+	- [ ] suggest a plan or structure for my assessment. 
+	- [ ] give me feedback on a draft. 
+	- [ ] generate images, figures or diagrams. 
+	- [ ] proofread and correct grammar or spelling errors. 
+	- [ ] generate citations or references. 
+	- [ ] Other: [please specify below] 
+
+- [ ] I have not used any GenAI tools in preparing this assessment. I declare that I have referenced all use of GenAI outputs within my assessment in line with the University referencing guidelines. 
